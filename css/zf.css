@@ -13,3 +13,7 @@ body {
     flex: 1 0 auto;
   }
 
+  #logo-container{
+    width: 30%;
+  }
+
